@@ -1,0 +1,15 @@
+MI RINCÓN NAKANO — NUEVA PESTAÑA DE CHROME
+
+1. Extrae este ZIP en una carpeta permanente. No borres ni muevas esa carpeta después.
+2. En Chrome abre el menú de tres puntos → Extensiones → Gestionar extensiones.
+3. Activa «Modo de desarrollador», arriba a la derecha.
+4. Pulsa «Cargar descomprimida».
+5. Selecciona la carpeta que contiene manifest.json (no el ZIP).
+6. Abre una pestaña nueva. Si Chrome te pregunta si quieres conservar el cambio, elige conservarlo.
+
+Si al extraer se crea una carpeta dentro de otra, elige la que contiene manifest.json.
+Si otra extensión controla las pestañas nuevas, desactiva solo esa extensión y vuelve a probar.
+
+Esta extensión no solicita permisos adicionales ni acceso al historial o a otras páginas.
+Los fondos están incluidos y funcionan sin conexión. Los accesos y la búsqueda necesitan internet.
+Puedes desinstalarla desde Gestionar extensiones para recuperar la pestaña habitual.

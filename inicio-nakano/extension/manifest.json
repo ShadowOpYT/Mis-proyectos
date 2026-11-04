@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Mi rincón Nakano",
+  "version": "1.0.0",
+  "description": "Tu nueva pestaña con las quintillizas, fondos y accesos personales.",
+  "chrome_url_overrides": {
+    "newtab": "inicio.html"
+  },
+  "offline_enabled": true
+}

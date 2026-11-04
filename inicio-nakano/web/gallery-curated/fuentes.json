@@ -1,0 +1,102 @@
+[
+  {
+    "file": "gallery-curated/seleccion-05.png",
+    "title": "Las cinco en la academia de magia",
+    "source": "https://wall.alphacoders.com/big.php?i=1315535",
+    "image": "https://images6.alphacoders.com/131/thumb-1920-1315535.png",
+    "artist": "Autor no identificado en la fuente consultada",
+    "position": "center",
+    "shiftRight": true
+  },
+  {
+    "file": "gallery-curated/elegida-1-hd.jpg",
+    "title": "Las cinco bajo el cielo azul",
+    "source": "https://www.crunchyroll.com/series/GMTE00258377/the-quintessential-quintuplets-movie",
+    "artist": "Crunchyroll",
+    "position": "center",
+    "resolution": [
+      1920,
+      762
+    ],
+    "quality": "Versión de mayor resolución encontrada en internet",
+    "shiftRight": true
+  },
+  {
+    "file": "gallery-curated/elegida-2-hd.jpg",
+    "title": "Las cinco novias",
+    "source": "https://es.wallpaper.mob.org/pc/image/anime-the_quintessential_quintuplets-ichika_nakano-itsuki_nakano-miku_nakano-nino_nakano-yotsuba_nakano-965661.html",
+    "artist": "Wallpaper Mob",
+    "position": "center",
+    "resolution": [
+      5261,
+      2959
+    ],
+    "quality": "Versión de mayor resolución encontrada en internet",
+    "shiftRight": false
+  },
+  {
+    "file": "gallery-curated/elegida-3-hd.jpg",
+    "title": "Juntas en el jardín",
+    "source": "https://times.abema.tv/articles/-/10071114",
+    "artist": "ABEMA Times",
+    "position": "center",
+    "resolution": [
+      1448,
+      813
+    ],
+    "quality": "Versión de mayor resolución encontrada en internet",
+    "shiftRight": false
+  },
+  {
+    "file": "gallery-curated/elegida-4-hd.jpg",
+    "title": "Las hermanas en clase",
+    "source": "https://zh.moegirl.tw/梦音茶糯",
+    "artist": "Fuente de imagen: Bilibili",
+    "position": "center",
+    "resolution": [
+      1092,
+      683
+    ],
+    "quality": "Versión de mayor resolución encontrada en internet",
+    "shiftRight": false
+  },
+  {
+    "file": "gallery-curated/elegida-5-hd.png",
+    "title": "Las cinco con Fuutarou",
+    "source": null,
+    "artist": "Imagen elegida por Maximiliano · restaurada con IA",
+    "position": "center",
+    "resolution": [
+      1672,
+      941
+    ],
+    "quality": "Restauración con IA; puede reinterpretar detalles pequeños",
+    "shiftRight": false
+  },
+  {
+    "file": "gallery-curated/elegida-6-hd.jpg",
+    "title": "Sonrisas y pétalos",
+    "source": "https://www.crunchyroll.com/pt-br/news/latest/2022/3/28/quem-ser-a-noiva-filme-de-the-quintessential-quintuplets-tem-novo-trailer-divulgado",
+    "artist": "Crunchyroll",
+    "position": "center",
+    "resolution": [
+      1280,
+      720
+    ],
+    "quality": "Versión de mayor resolución encontrada en internet",
+    "shiftRight": true
+  },
+  {
+    "file": "gallery-curated/elegida-7-hd.jpg",
+    "title": "Cinco miradas",
+    "source": "https://animecorner.me/the-quintessential-quintuplets-movie-to-premiere-may-20-reveals-trailer-and-visual/",
+    "artist": "Anime Corner",
+    "position": "center",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "quality": "Versión de mayor resolución encontrada en internet",
+    "shiftRight": false
+  }
+]
